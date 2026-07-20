@@ -45,13 +45,6 @@ personal-portfolio/
 
 ---
 
-## 👩‍💻 About Me
-
-Hello! I'm **Ebtihal Alamri**, a Computer & Network Engineering student at the **University of Jeddah**.
-
-I'm passionate about networking, embedded systems, and web development. I enjoy learning new technologies and continuously improving my technical skills through practical projects.
-
----
 
 ## 🚀 Getting Started
 
