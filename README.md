@@ -4,18 +4,16 @@ A modern and responsive personal portfolio website built with **HTML5** and **CS
 
 ---
 
-## ✨ Preview
-
-This portfolio features:
+## ✨ Features
 
 * 🎨 Modern pink-themed user interface
-* 📱 Responsive design for desktop and mobile devices
+* 📱 Fully responsive design
 * 👩 About Me section
 * 🛠 Skills showcase
 * 📬 Contact section
-* 🌊 Smooth section transitions
-* ✨ Animated UI elements
-* 💻 Clean and organized code
+* 🌊 Smooth scrolling navigation
+* ✨ CSS animations and interactive elements
+* 💻 Clean and organized code structure
 
 ---
 
@@ -32,7 +30,7 @@ This portfolio features:
 ## 📂 Project Structure
 
 ```text
-Portfolio/
+personal-portfolio/
 │── index.html
 └── README.md
 ```
@@ -47,48 +45,38 @@ I'm passionate about networking, embedded systems, and web development. I enjoy 
 
 ---
 
-## 🛠 Skills
+## ⚙️ Installation
 
-* HTML
-* CSS
-* C++
-* Python
-* GitHub
-* Arduino
-* Onshape
+Clone the repository:
+
+```bash
+git clone https://github.com/Ebtihal8/personal-portfolio.git
+```
+
+Open the project folder and launch **index.html** in your preferred web browser.
 
 ---
 
 ## 🎯 Project Goals
 
-* Create a professional online portfolio.
-* Practice responsive web design.
-* Improve front-end development skills.
-* Present personal information in a modern and accessible way.
-
----
-
-## ▶️ Getting Started
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/Ebtihal8/your-repository-name.git
-```
-
-2. Open the project folder.
-
-3. Launch **index.html** in your preferred web browser.
+* Build a professional personal portfolio website.
+* Practice responsive web design using HTML and CSS.
+* Showcase my skills and background.
+* Strengthen my front-end development skills.
 
 ---
 
 ## 📬 Contact
 
-📧 Email: **[ebtihal.alamri2@gmail.com](mailto:ebtihal.alamri2@gmail.com)**
+* **Email:** [ebtihal.alamri2@gmail.com](mailto:ebtihal.alamri2@gmail.com)
+* **GitHub:** https://github.com/Ebtihal8
+* **X (Twitter):** https://x.com/i205aa
 
-💻 GitHub: **https://github.com/Ebtihal8**
+---
 
-𝕏 X (Twitter): **https://x.com/i205aa**
+## 🌐 Repository
+
+https://github.com/Ebtihal8/personal-portfolio
 
 ---
 
@@ -97,15 +85,15 @@ git clone https://github.com/Ebtihal8/your-repository-name.git
 * Add a Projects section
 * Add downloadable CV
 * Improve accessibility
-* Add dark mode
+* Add Dark Mode
 * Enhance animations
-* Include project gallery
+* Include additional portfolio projects
 
 ---
 
 ## 📄 License
 
-This project is created for educational and personal portfolio purposes.
+This project is intended for educational and personal portfolio purposes.
 
 ---
 
@@ -113,4 +101,4 @@ This project is created for educational and personal portfolio purposes.
 
 Thank you for visiting my portfolio repository!
 
-If you like this project, feel free to ⭐ the repository and connect with me. Feedback and suggestions are always appreciated.
+If you found this project interesting, feel free to ⭐ the repository and connect with me. Your feedback and suggestions are always appreciated.
