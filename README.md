@@ -74,13 +74,7 @@ Then open the project folder and launch **index.html** in your preferred web bro
 
 ---
 
-## 📬 Contact
 
-- 📧 **Email:** ebtihal.alamri2@gmail.com
-- 💻 **GitHub:** https://github.com/Ebtihal8
-- 𝕏 **X (Twitter):** https://x.com/i205aa
-
----
 
 ## 🔮 Future Improvements
 
@@ -91,11 +85,7 @@ Then open the project folder and launch **index.html** in your preferred web bro
 - Enhance animations
 - Showcase more personal projects
 
----
 
-## 📄 License
-
-This project is created for educational and personal portfolio purposes.
 
 ---
 
